@@ -24,7 +24,8 @@ Quality practices are embedded throughout our delivery process: We maintain comp
 The following documents provide detailed guidance for each aspect of the OctoAcme project management process:
 
 - **[Project Management Overview](octoacme-project-management-overview.md)** - Core principles, roles, artifacts, lifecycle, and communication cadence for OctoAcme projects
-- **[Roles and Personas](octoacme-roles-and-personas.md)** - Detailed descriptions of Developer, Product Manager, and Project Manager roles with responsibilities and communication patterns
+- **[Roles and Personas](octoacme-roles-and-personas.md)** - Comprehensive descriptions of all project roles including Developers, Product Managers, Project Managers, QA/Testing, Scrum Masters, Change Managers, Business Analysts, UX Designers, Release Managers, and Stakeholders, with detailed responsibilities and interaction patterns
+- **[RACI Matrix and Handoff Checklist](octoacme-raci-and-handoff-checklist.md)** - Clarifies accountability and ownership using RACI matrices across project phases, with handoff checklists and escalation paths
 - **[Project Initiation](octoacme-project-initiation.md)** - Guidelines for validating project ideas, creating one-pagers, identifying stakeholders, and getting approval to proceed
 - **[Project Planning](octoacme-project-planning.md)** - How to turn approved initiatives into actionable plans with prioritized backlogs, estimates, and release timelines
 - **[Execution and Tracking](octoacme-execution-and-tracking.md)** - Day-to-day delivery guidance including team rhythm, workflows, quality practices, and blocker escalation
@@ -37,7 +38,8 @@ The following documents provide detailed guidance for each aspect of the OctoAcm
 For new team members:
 1. Start with the [Project Management Overview](octoacme-project-management-overview.md) to understand our core principles and lifecycle
 2. Review the [Roles and Personas](octoacme-roles-and-personas.md) document to understand your role and how you interact with others
-3. Explore the phase-specific guides ([Initiation](octoacme-project-initiation.md), [Planning](octoacme-project-planning.md), [Execution](octoacme-execution-and-tracking.md), [Release](octoacme-release-and-deployment.md)) based on your current project needs
-4. Refer to [Risk Management and Communication](octoacme-risks-and-communication.md) for guidance on stakeholder updates and issue escalation
+3. Use the [RACI Matrix and Handoff Checklist](octoacme-raci-and-handoff-checklist.md) to clarify ownership and accountability for your work
+4. Explore the phase-specific guides ([Initiation](octoacme-project-initiation.md), [Planning](octoacme-project-planning.md), [Execution](octoacme-execution-and-tracking.md), [Release](octoacme-release-and-deployment.md)) based on your current project needs
+5. Refer to [Risk Management and Communication](octoacme-risks-and-communication.md) for guidance on stakeholder updates and issue escalation
 
 For ongoing reference, use these documents as templates and checklists to ensure consistency across projects. Consider adding relevant process documents to your project's `.copilot/` directory to help GitHub Copilot Spaces provide context-aware assistance.
