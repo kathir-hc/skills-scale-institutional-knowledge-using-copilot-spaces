@@ -15,18 +15,18 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 
 ### Project Initiation
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Define problem statement | C | A | I | I | I | C | C | I | I | C |
 | Create project charter | R/A | C | I | I | C | C | I | I | I | C |
-| Identify stakeholders | R | A | I | I | I | C | I | I | C | C |
+| Identify stakeholders | R | A | I | I | I | C | I | I | C | I |
 | Initial risk assessment | R/A | C | C | I | C | C | I | I | C | I |
 | Resource planning | R/A | C | C | I | C | I | I | I | I | C |
 
 ### Requirements & Planning
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Elicit requirements | C | C | I | I | I | R/A | C | I | I | C |
 | Define acceptance criteria | C | C | C | C | C | R/A | C | I | I | C |
 | Create user stories | C | R/A | C | C | C | C | I | I | I | I |
@@ -38,8 +38,8 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 
 ### Development & Execution
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Feature implementation | I | I | R/A | C | C | C | C | I | I | I |
 | Code reviews | I | I | R/A | I | C | I | I | I | I | I |
 | Design review/validation | I | C | C | I | I | C | R/A | I | I | I |
@@ -51,8 +51,8 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 
 ### Testing & Quality Assurance
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Test case creation | I | I | C | R/A | I | C | I | I | I | I |
 | Bug reporting/tracking | I | I | C | R/A | I | C | C | I | I | I |
 | Bug triage | C | C | R | R/A | C | C | I | I | I | I |
@@ -62,21 +62,21 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 
 ### Release & Deployment
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Release planning | C | C | C | C | I | I | I | R/A | C | I |
 | Build/package creation | I | I | R/A | C | I | I | I | C | I | I |
 | Release notes | C | C | C | C | I | C | C | R/A | C | I |
 | Deployment execution | I | I | C | I | I | I | I | R/A | I | I |
-| Go/no-go decision | C | C | I | C | I | I | I | R/A | I | C/A |
+| Go/no-go decision | C | C | I | C | I | I | I | R/A | I | C |
 | Release communication | C | C | I | I | I | I | I | R | R/A | I |
 | Change documentation | C | I | I | I | I | I | I | C | R/A | I |
 | Post-release monitoring | I | I | R | R | I | I | I | R/A | I | I |
 
 ### Retrospective & Improvement
 
-| Activity | PM | PdM | Dev | QA | Scrum Master | BA | UX | Release Mgr | Change Mgr | Stakeholders |
-|----------|----|----|-----|----|--------------|----|----|-----------|-----------|--------------| 
+| Activity | Proj Mgr | Prod Mgr | Dev | QA | Scrum Master | BA | UX | Rel Mgr | Change Mgr | Stakeholders |
+|----------|----------|----------|-----|----|--------------|----|----|---------|-----------|--------------| 
 | Retrospective facilitation | C | C | R | R | R/A | C | C | C | C | I |
 | Action item tracking | R/A | I | I | I | C | I | I | I | C | I |
 | Process improvements | C | C | C | C | R/A | C | C | C | R/A | I |
