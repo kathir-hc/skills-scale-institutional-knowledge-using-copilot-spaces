@@ -69,8 +69,8 @@ This document provides a RACI (Responsible, Accountable, Consulted, Informed) ma
 | Release notes | C | C | C | C | I | C | C | R/A | C | I |
 | Deployment execution | I | I | C | I | I | I | I | R/A | I | I |
 | Go/no-go decision | C | C | I | C | I | I | I | R/A | I | C |
-| Release communication | C | C | I | I | I | I | I | R | R/A | I |
-| Change documentation | C | I | I | I | I | I | I | C | R/A | I |
+| Release announcements | C | C | I | I | I | I | I | R/A | C | I |
+| Organizational change communication | C | I | I | I | I | I | I | C | R/A | I |
 | Post-release monitoring | I | I | R | R | I | I | I | R/A | I | I |
 
 ### Retrospective & Improvement
